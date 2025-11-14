@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <img src="https://64.media.tumblr.com/7438ed1171361ca2c957403546fa6f14/01a9b112c649f77a-9d/s100x200/74d9d021d6f18c95345c652d890e648e5abbef58.gifv" width="auto" height="25" />
-  @KOVA4H и Филя
+  [@KOVA4H](https://github.com/KOVA4H) и Филя
   <img src="https://64.media.tumblr.com/7438ed1171361ca2c957403546fa6f14/01a9b112c649f77a-9d/s100x200/74d9d021d6f18c95345c652d890e648e5abbef58.gifv" width="auto" height="25" />
 </p>
 <p align="center">
