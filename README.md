@@ -61,16 +61,19 @@
 
 <!-- Строка-->
 <p align="center">
-<img src="https://64.media.tumblr.com/e86b91e8a3542f8621f74fc440b91bc5/e57af24e9513f075-17/s640x960/41100cf7b71dffdebdec970d0be32858bcc55ae5.pnj" width="auto" height="auto" />
+<img src="https://64.media.tumblr.com/930d14c87d809bd6e2bbe2c53372d6b6/b3d328cbd1a500dd-92/s2048x3072/dc2d5c56bd70996e8a59cbdc8b9d01e6f727c714.pnj" width="auto" height="70" />
 </p>
 
-<img width="auto" height="500" alt="покет2" src="https://github.com/user-attachments/assets/df8889c4-2f94-4be9-8e1e-4bb18507a214" />
+<!-- Покет-->
+<img width="auto" height="500" alt="покет" src="https://github.com/user-attachments/assets/f8cb8063-170f-442b-9e2d-da5236516618" align=left />
+
+<br>
+<br>
 
 <!-- 𝙳𝙽𝙸-->
-<details>
-  <summary>$\color{#e05f65}{\textsf{𝙳𝙽𝙸}}$</summary>
-  
-🍒 𝙷𝚘𝚖𝚘𝚙𝚑𝚘𝚋𝚒𝚌, 𝚜𝚎𝚡𝚒𝚜𝚝𝚜, 𝚎𝚝𝚌<br>
+<details >
+  <summary>$\color{#889158}{\textsf{𝙳𝙽𝙸}}$</summary>
+
 🍒 𝙳𝚊𝚛𝚔𝚜𝚑𝚒𝚙𝚙𝚎𝚛𝚜 (𝚙𝚎𝚍𝚘, 𝚒𝚗𝚌𝚎𝚜𝚝)<br>
 🍒 𝙷𝚎𝚝𝚎𝚛𝚘𝚗𝚘𝚛𝚖𝚊𝚝𝚒𝚟𝚒𝚝𝚢 𝚒𝚗 𝚑𝚘𝚖𝚘-𝚙𝚊𝚒𝚛𝚒𝚗𝚐𝚜 (𝚌𝚘𝚞𝚙𝚕𝚎𝚜)<br>
 🍒 𝙿𝚎𝚘𝚙𝚕𝚎 𝚠𝚑𝚘 𝚜𝚞𝚙𝚎𝚛𝚏𝚒𝚌𝚒𝚊𝚕𝚕𝚢 𝚕𝚘𝚘𝚔 𝚊𝚝 𝚝𝚑𝚎 𝚊𝚌𝚝𝚒𝚘𝚗𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛𝚜<br>
@@ -79,12 +82,21 @@
 </details>
 
 <!-- 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴-->
-<details>
-  <summary>𝙰𝙱𝙾𝚄𝚃 𝙼𝙴</summary>
-  
-  
+<details >
+  <summary>$\color{#889158}{\textsf{𝙰𝙱𝙾𝚄𝚃 𝙼𝙴}}$</summary>
+
+𝙸’𝚖 𝚚𝚞𝚒𝚝𝚎 𝚊 𝚜𝚘𝚌𝚒𝚊𝚋𝚕𝚎 𝚊𝚗𝚍 𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚙𝚎𝚛𝚜𝚘𝚗, 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚕𝚢 𝚒𝚏 𝚠𝚎 𝚜𝚑𝚊𝚛𝚎 𝚌𝚘𝚖𝚖𝚘𝚗 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜. 𝙸 𝚕𝚘𝚟𝚎 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛. 𝚃𝚑𝚎 𝚜𝚝𝚢𝚕𝚎 𝚘𝚏 𝚖𝚢 𝚏𝚊𝚟𝚘𝚞𝚛𝚒𝚝𝚎 𝚐𝚊𝚖𝚎𝚜 𝚟𝚊𝚛𝚒𝚎𝚜 𝚐𝚛𝚎𝚊𝚝𝚕𝚢 — 𝚏𝚛𝚘𝚖 𝚏𝚊𝚛𝚖𝚜/𝚜𝚒𝚖𝚞𝚕𝚊𝚝𝚘𝚛𝚜 𝚝𝚘 𝚜𝚑𝚘𝚘𝚝𝚎𝚛𝚜/𝚙𝚜𝚢𝚌𝚑𝚘𝚕𝚘𝚐𝚒𝚌𝚊𝚕 𝚑𝚘𝚛𝚛𝚘𝚛 𝚐𝚊𝚖𝚎𝚜.<br>
+
+𝚁𝚒𝚐𝚑𝚝 𝚗𝚘𝚠, 𝙸’𝚖 𝚐𝚘𝚒𝚗𝚐 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚊 𝚍𝚒𝚏𝚏𝚒𝚌𝚞𝚕𝚝 𝚍𝚎𝚙𝚛𝚎𝚜𝚜𝚒𝚟𝚎 𝚙𝚎𝚛𝚒𝚘𝚍, 𝚜𝚘 𝚊𝚝 𝚝𝚒𝚖𝚎𝚜 𝙸 𝚍𝚘𝚗’𝚝 𝚑𝚊𝚟𝚎 𝚝𝚑𝚎 𝚎𝚗𝚎𝚛𝚐𝚢 𝚗𝚘𝚝 𝚘𝚗𝚕𝚢 𝚏𝚘𝚛 𝚌𝚘𝚖𝚖𝚞𝚗𝚒𝚌𝚊𝚝𝚒𝚘𝚗, 𝚋𝚞𝚝 𝚎𝚟𝚎𝚗 𝚏𝚘𝚛 𝚎𝚟𝚎𝚛𝚢𝚍𝚊𝚢 𝚝𝚊𝚜𝚔𝚜. 𝙸 𝚍𝚘𝚗’𝚝 𝚐𝚎𝚝 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚙𝚎𝚘𝚙𝚕𝚎 𝚓𝚞𝚜𝚝 𝚝𝚘 𝚌𝚑𝚊𝚜𝚎 𝚊𝚏𝚝𝚎𝚛 𝚜𝚘𝚖𝚎𝚘𝚗𝚎. 𝙸 𝚑𝚊𝚟𝚎 𝚌𝚘𝚗𝚏𝚒𝚛𝚖𝚎𝚍 𝙱𝙿𝙳, 𝚜𝚘 𝙸’𝚕𝚕 𝚕𝚎𝚊𝚟𝚎 𝚢𝚘𝚞 𝚛𝚒𝚐𝚑𝚝 𝚊𝚠𝚊𝚢 𝚊𝚜 𝚜𝚘𝚘𝚗 𝚊𝚜 𝙸 𝚜𝚎𝚗𝚜𝚎 𝚊𝚗𝚢 𝚗𝚎𝚐𝚊𝚝𝚒𝚟𝚒𝚝𝚢 𝚏𝚛𝚘𝚖 𝚢𝚘𝚞.
   
 </details>
+
+<!-- Строка-->
+<p align="center">
+<img src="https://64.media.tumblr.com/e86b91e8a3542f8621f74fc440b91bc5/e57af24e9513f075-17/s640x960/41100cf7b71dffdebdec970d0be32858bcc55ae5.pnj" width="auto" height="auto" />
+</p>
+
+
 
         
 
