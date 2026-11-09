@@ -68,12 +68,11 @@
 <img width="auto" height="500" alt="покет" src="https://github.com/user-attachments/assets/f8cb8063-170f-442b-9e2d-da5236516618" align=left />
 
 <br>
-<br>
 
 <!-- 𝙳𝙽𝙸-->
 <details >
   <summary>$\color{#889158}{\textsf{𝙳𝙽𝙸}}$</summary>
-
+🍒 𝙷𝚘𝚖𝚘𝚙𝚑𝚘𝚋𝚒𝚌, 𝚜𝚎𝚡𝚒𝚜𝚝𝚜, 𝚎𝚝𝚌<br>
 🍒 𝙳𝚊𝚛𝚔𝚜𝚑𝚒𝚙𝚙𝚎𝚛𝚜 (𝚙𝚎𝚍𝚘, 𝚒𝚗𝚌𝚎𝚜𝚝)<br>
 🍒 𝙷𝚎𝚝𝚎𝚛𝚘𝚗𝚘𝚛𝚖𝚊𝚝𝚒𝚟𝚒𝚝𝚢 𝚒𝚗 𝚑𝚘𝚖𝚘-𝚙𝚊𝚒𝚛𝚒𝚗𝚐𝚜 (𝚌𝚘𝚞𝚙𝚕𝚎𝚜)<br>
 🍒 𝙿𝚎𝚘𝚙𝚕𝚎 𝚠𝚑𝚘 𝚜𝚞𝚙𝚎𝚛𝚏𝚒𝚌𝚒𝚊𝚕𝚕𝚢 𝚕𝚘𝚘𝚔 𝚊𝚝 𝚝𝚑𝚎 𝚊𝚌𝚝𝚒𝚘𝚗𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛𝚜<br>
