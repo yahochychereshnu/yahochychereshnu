@@ -91,10 +91,54 @@
   
 </details>
 
+
+<!-- Строка-->
+<p align="center">
+  <img width="auto" height="auto" alt="пустота" src="https://github.com/user-attachments/assets/88eecaee-cead-4b7a-b919-17ac48723544" />
+</p>
+
 <!-- Строка-->
 <p align="center">
 <img src="https://64.media.tumblr.com/e86b91e8a3542f8621f74fc440b91bc5/e57af24e9513f075-17/s640x960/41100cf7b71dffdebdec970d0be32858bcc55ae5.pnj" width="auto" height="auto" />
 </p>
+
+<!-- Арт -->
+<p align="center">
+<img width="auto" height="550" alt="tumblr_8cb15d794eb03ad30356490a6394822b_8d251318_2048" src="https://github.com/user-attachments/assets/604802cf-cae2-40eb-8ffd-118ba268e377" />
+</p>
+
+<br>
+
+<!-- Соц сети-->
+<p align="center">
+  <a href="https://vk.com/yahochychereshnu">
+    <img width="auto" height="60" alt="vkontakte" src="https://github.com/user-attachments/assets/a196bee0-f1f5-4864-b06a-33ff891d70ee" />
+  </a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/yahochychereshnu/">
+    <img width="auto" height="60" alt="discord" src="https://github.com/user-attachments/assets/5ae24f2e-6fa1-45b4-b04c-08d27285bf91" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/YaHochyChereshnu">
+   <img width="auto" height="60" alt="telegram" src="https://github.com/user-attachments/assets/bff15651-2f0d-4139-b3c0-5075c3921d6e" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/yahochychereshnu/">
+    <img width="auto" height="60" alt="steam" src="https://github.com/user-attachments/assets/bd714193-10a8-4773-8eef-d94e36d3592b" />
+  </a>
+</p>
+
+<!-- Строка-->
+<p align="center">
+<img src="https://64.media.tumblr.com/65d6d885d32f4849a76bb2af6de07807/63214a32c0af0550-66/s2048x3072/96d1084fe5a94e1fc246790b95b5a0870403972c.pnj" width="auto" height="50" />
+  <img src="https://github.com/user-attachments/assets/68f59b58-7b00-4101-831e-2ad695dce3aa" width="auto" height="50" />
+<img src="https://64.media.tumblr.com/d9d49ff1ba4889c76892d54f8e893dd3/63214a32c0af0550-19/s2048x3072/ea75434224f43c6d00ac15856f945456a8ecc889.pnj" width="auto" height="50" />
+</p>
+
+
+
+
+
 
 
 
