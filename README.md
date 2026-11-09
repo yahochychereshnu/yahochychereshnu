@@ -37,7 +37,8 @@
         <strong>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</strong>
       </p>
       <p align="center">
-        <font color="#e05f65" size="6">⋆˚࿔ 𝙽𝙰𝚂𝚃𝚈𝙰 𝜗𝜚˚⋆</font>
+        <font color="#e05f65" size="6">⋆˚࿔ 𝙽𝙰𝚂𝚃𝚈𝙰 𝜗𝜚˚⋆ <img width="60" height="60" alt="Tumblr_l_557040016285940" src="https://github.com/user-attachments/assets/a785e310-aea6-4ae2-bee3-7464f989b205" />
+</font>
       </p>
       <p align="center">
         𝚜𝚑𝚎 / 𝚑𝚎𝚛 | 𝟸𝟷 | 𝚁𝚄 / 𝙴𝙽𝙶
