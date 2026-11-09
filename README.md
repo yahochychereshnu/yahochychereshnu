@@ -32,7 +32,7 @@
 <table align="center" border="0">
   <tr>
     <!-- Левая колонка: текстовая информация -->
-    <td valign="top" align="left" width="50%">
+    <td valign="center" align="left" width="50%">
        <p align="center">
         <strong>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</strong>
       </p>
@@ -52,7 +52,7 @@
     <!-- Правая колонка: гифка -->
     <td valign="top" align="right" width="50%">
       <!-- Замените на путь к вашему локальному файлу, например assets/nastya.gif -->
-      <img src="https://github.com/user-attachments/assets/134de773-068c-46c6-a424-afe37d9a1b4a" width="auto" height="auto" />
+      <img src="https://github.com/user-attachments/assets/134de773-068c-46c6-a424-afe37d9a1b4a" width="400" height="auto" />
     </td>
   </tr>
 </table>
