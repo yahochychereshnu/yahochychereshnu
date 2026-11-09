@@ -37,7 +37,8 @@
         <strong>⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</strong>
       </p>
       <p align="center">
-        <font color="#e05f65" size="6">⋆˚࿔ 𝙽𝙰𝚂𝚃𝚈𝙰 𝜗𝜚˚⋆ <img width="60" height="60" alt="Tumblr_l_557040016285940" src="https://github.com/user-attachments/assets/a785e310-aea6-4ae2-bee3-7464f989b205" />
+        <font color="#e05f65" size="6">⋆˚࿔ 𝙽𝙰𝚂𝚃𝚈𝙰 𝜗𝜚˚⋆ 
+          <img width="AUTO" height="30" alt="Tumblr_l_557040016285940" src="https://github.com/user-attachments/assets/a785e310-aea6-4ae2-bee3-7464f989b205" />
 </font>
       </p>
       <p align="center">
@@ -57,6 +58,32 @@
     </td>
   </tr>
 </table>
+
+<!-- Строка-->
+<p align="center">
+<img src="https://64.media.tumblr.com/e86b91e8a3542f8621f74fc440b91bc5/e57af24e9513f075-17/s640x960/41100cf7b71dffdebdec970d0be32858bcc55ae5.pnj" width="auto" height="auto" />
+</p>
+
+
+<!-- 𝙳𝙽𝙸-->
+<details>
+  <summary>𝙳𝙽𝙸</summary>
+  
+🍒 𝙷𝚘𝚖𝚘𝚙𝚑𝚘𝚋𝚒𝚌, 𝚜𝚎𝚡𝚒𝚜𝚝𝚜, 𝚎𝚝𝚌<br>
+🍒 𝙳𝚊𝚛𝚔𝚜𝚑𝚒𝚙𝚙𝚎𝚛𝚜 (𝚙𝚎𝚍𝚘, 𝚒𝚗𝚌𝚎𝚜𝚝)<br>
+🍒 𝙷𝚎𝚝𝚎𝚛𝚘𝚗𝚘𝚛𝚖𝚊𝚝𝚒𝚟𝚒𝚝𝚢 𝚒𝚗 𝚑𝚘𝚖𝚘-𝚙𝚊𝚒𝚛𝚒𝚗𝚐𝚜 (𝚌𝚘𝚞𝚙𝚕𝚎𝚜)<br>
+🍒 𝙿𝚎𝚘𝚙𝚕𝚎 𝚠𝚑𝚘 𝚜𝚞𝚙𝚎𝚛𝚏𝚒𝚌𝚒𝚊𝚕𝚕𝚢 𝚕𝚘𝚘𝚔 𝚊𝚝 𝚝𝚑𝚎 𝚊𝚌𝚝𝚒𝚘𝚗𝚜 𝚘𝚏 𝚝𝚑𝚎 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛𝚜<br>
+🍒 𝙿𝚘𝚌𝚔𝚎𝚝𝙼𝚒𝚗𝚊 𝚜𝚑𝚒𝚙𝚙𝚎𝚛𝚜 𝚙𝚕𝚜 𝚔𝚢𝚜
+
+</details>
+
+<!-- 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴-->
+<details>
+  <summary>𝙰𝙱𝙾𝚄𝚃 𝙼𝙴</summary>
+  
+  
+  
+</details>
 
         
 
