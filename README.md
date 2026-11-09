@@ -130,9 +130,9 @@
 
 <!-- Строка-->
 <p align="center">
-<img src="https://64.media.tumblr.com/65d6d885d32f4849a76bb2af6de07807/63214a32c0af0550-66/s2048x3072/96d1084fe5a94e1fc246790b95b5a0870403972c.pnj" width="auto" height="50" />
-  <img src="https://github.com/user-attachments/assets/68f59b58-7b00-4101-831e-2ad695dce3aa" width="auto" height="50" />
-<img src="https://64.media.tumblr.com/d9d49ff1ba4889c76892d54f8e893dd3/63214a32c0af0550-19/s2048x3072/ea75434224f43c6d00ac15856f945456a8ecc889.pnj" width="auto" height="50" />
+<img src="https://64.media.tumblr.com/65d6d885d32f4849a76bb2af6de07807/63214a32c0af0550-66/s2048x3072/96d1084fe5a94e1fc246790b95b5a0870403972c.pnj" width="auto" height="45" />
+  <img src="https://github.com/user-attachments/assets/68f59b58-7b00-4101-831e-2ad695dce3aa" width="auto" height="45" />
+<img src="https://64.media.tumblr.com/d9d49ff1ba4889c76892d54f8e893dd3/63214a32c0af0550-19/s2048x3072/ea75434224f43c6d00ac15856f945456a8ecc889.pnj" width="auto" height="45" />
 </p>
 
 
