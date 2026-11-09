@@ -64,10 +64,11 @@
 <img src="https://64.media.tumblr.com/e86b91e8a3542f8621f74fc440b91bc5/e57af24e9513f075-17/s640x960/41100cf7b71dffdebdec970d0be32858bcc55ae5.pnj" width="auto" height="auto" />
 </p>
 
+<img width="auto" height="500" alt="покет2" src="https://github.com/user-attachments/assets/df8889c4-2f94-4be9-8e1e-4bb18507a214" />
 
 <!-- 𝙳𝙽𝙸-->
 <details>
-  <summary>𝙳𝙽𝙸</summary>
+  <summary>$\color{#e05f65}{\textsf{𝙳𝙽𝙸}}$</summary>
   
 🍒 𝙷𝚘𝚖𝚘𝚙𝚑𝚘𝚋𝚒𝚌, 𝚜𝚎𝚡𝚒𝚜𝚝𝚜, 𝚎𝚝𝚌<br>
 🍒 𝙳𝚊𝚛𝚔𝚜𝚑𝚒𝚙𝚙𝚎𝚛𝚜 (𝚙𝚎𝚍𝚘, 𝚒𝚗𝚌𝚎𝚜𝚝)<br>
